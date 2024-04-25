@@ -1,2 +1,2 @@
 # Portfolio
-My personal portfolio sing HTML ,CSS and Javascript
+My personal portfolio using HTML ,CSS and Javascript
